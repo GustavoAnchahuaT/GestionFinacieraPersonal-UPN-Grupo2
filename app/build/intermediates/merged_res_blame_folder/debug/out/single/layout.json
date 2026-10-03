@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/activity_reporte.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/activity_reporte.xml"
+    },
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/item_transaccion.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/item_transaccion.xml"
+    },
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/item_categoria_reporte.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/item_categoria_reporte.xml"
+    },
+    {
+        "merged": "com.incasolutions.finanzaspersonales.app-mergeDebugResources-37:/layout/activity_add_transaction.xml",
+        "source": "com.incasolutions.finanzaspersonales.app-main-40:/layout/activity_add_transaction.xml"
+    }
+]

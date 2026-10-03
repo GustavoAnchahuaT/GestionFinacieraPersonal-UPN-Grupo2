@@ -1,0 +1,10 @@
+<resources>
+    <color name="dark_card">#1B1B2F</color>
+    <color name="income_green">#2ECC71</color>
+    <color name="expense_red">#E74C3C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#F2F2F2</color>
+    <color name="gray_text">#8A8A8A</color>
+    <color name="primary">#4361EE</color>
+    <color name="primary_dark">#3245B0</color>
+</resources>

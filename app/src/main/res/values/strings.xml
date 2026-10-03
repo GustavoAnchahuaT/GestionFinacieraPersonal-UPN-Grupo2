@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Finanzas Personales</string>
+    <string name="title_add_transaction">Nueva transacción</string>
+
+    <string name="label_balance_mes">Saldo del mes</string>
+    <string name="label_ingresos">Ingresos</string>
+    <string name="label_gastos">Gastos</string>
+    <string name="label_monto">Monto (S/)</string>
+    <string name="label_categoria">Categoría</string>
+    <string name="label_descripcion">Descripción (opcional)</string>
+    <string name="label_tipo">Tipo de movimiento</string>
+    <string name="label_periodo">Ver movimientos de:</string>
+    <string name="option_ingreso">Ingreso</string>
+    <string name="option_gasto">Gasto</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_agregar">Agregar movimiento</string>
+    <string name="btn_volver">Volver</string>
+    <string name="empty_list">Aún no tienes movimientos registrados</string>
+    <string name="error_monto">Ingresa un monto mayor a 0</string>
+    <string name="error_categoria">Selecciona una categoría</string>
+    <string name="error_conexion">No se pudo conectar con el servidor. Verifica que XAMPP esté activo</string>
+    <string name="msg_guardado">Movimiento guardado correctamente</string>
+    <string name="label_desde">Desde:</string>
+    <string name="label_hasta">Hasta:</string>
+    <string name="btn_elegir_fecha">Elegir fecha</string>
+    <string name="btn_aplicar_rango">Aplicar filtro</string>
+    <string name="error_rango_incompleto">Elige la fecha de inicio y la fecha final</string>
+    <string name="error_rango_invalido">La fecha \"Desde\" no puede ser posterior a la fecha \"Hasta\"</string>
+    <string name="btn_cerrar_sesion">Cerrar sesión</string>
+    <string name="msg_confirmar_cerrar_sesion">¿Seguro que deseas cerrar sesión?</string>
+    <string name="btn_eliminar">Eliminar movimiento</string>
+    <string name="label_recurrente">Es un movimiento recurrente (se repite cada mes)</string>
+    <string name="btn_ver_reporte">Ver reporte</string>
+
+    <string-array name="opciones_periodo">
+        <item>Este mes</item>
+        <item>Hoy</item>
+        <item>Este año</item>
+        <item>Últimos 3 meses</item>
+        <item>Últimos 6 meses</item>
+        <item>Rango de fechas personalizado</item>
+    </string-array>
+</resources>

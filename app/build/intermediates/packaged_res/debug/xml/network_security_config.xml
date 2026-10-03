@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Config opcional para restringir el tráfico "cleartext" (HTTP) solo a las
+    direcciones locales que usa XAMPP durante el desarrollo, en lugar de
+    permitirlo globalmente. No está referenciada aún en el Manifest
+    (se usa usesCleartextTraffic="true" por simplicidad del prototipo),
+    pero queda lista para cuando se quiera endurecer la seguridad.
+-->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">10.0.2.2</domain>
+        <domain includeSubdomains="false">localhost</domain>
+        <!-- Agrega aquí la IP de tu PC en la red local si pruebas con celular físico, ej: -->
+        <!-- <domain includeSubdomains="false">192.168.1.50</domain> -->
+    </domain-config>
+</network-security-config>
